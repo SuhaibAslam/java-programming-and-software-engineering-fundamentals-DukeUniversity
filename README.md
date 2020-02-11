@@ -1,4 +1,4 @@
-# A range of coding challenges for the Java Programming and Software Engineering Fundamentals specialization from Duke University
+# Coding challenges for the Java Programming and Software Engineering Fundamentals specialization from Duke University
 
 This Specialization (consisting of five courses) covered the fundamentals of software development, focusing on an introduction to rigorous problem-solving approaches while still extending traditional methods of computer science and software engineering. Google contributed real-world projects and the involvement of its engineers as guest lecturers to the specialization’s courses.
 
